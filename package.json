@@ -1,5 +1,5 @@
 {
-  "name": "@uniswap/sdk",
+  "name": "shinobi-sdk",
   "license": "MIT",
   "version": "3.0.3",
   "description": "🛠 An SDK for building applications on top of Uniswap.",
@@ -8,7 +8,7 @@
   "files": [
     "dist"
   ],
-  "repository": "https://github.com/Uniswap/uniswap-sdk.git",
+  "repository": "https://github.com/5plint3r/shinobi-sdk.git",
   "keywords": [
     "uniswap",
     "ethereum"
@@ -22,7 +22,7 @@
     "prepublishOnly": "tsdx build"
   },
   "dependencies": {
-    "@uniswap/v2-core": "^1.0.0",
+    "@uniswap/v2-core": "5plint3r/shinobi-v2-core.git#master",
     "big.js": "^5.2.2",
     "decimal.js-light": "^2.5.0",
     "jsbi": "^3.1.1",
