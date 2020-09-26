@@ -1,8 +1,14 @@
 # Shinobi SDK 🏴‍☠️
 
-Forked from uniswap-sdk. Use with shinobi contracts.
+*Forked from uniswap-sdk. Use with shinobi contracts.*
 
 In-depth documentation on this SDK is available at [uniswap.org](https://uniswap.org/docs/v2/SDK/getting-started/).
+
+## Install
+
+```
+npm install shinobi-sdk
+```
 
 ## Running tests
 

@@ -1453,10 +1453,6 @@
     semver "^7.3.2"
     tsutils "^3.17.1"
 
-"@uniswap/v2-core@5plint3r/shinobi-v2-core.git#master":
-  version "1.0.1"
-  resolved "https://codeload.github.com/5plint3r/shinobi-v2-core/tar.gz/876f1c7f4b186fb52d9787000e6f9c6c1ecb2158"
-
 abab@^2.0.0:
   version "2.0.3"
   resolved "https://registry.yarnpkg.com/abab/-/abab-2.0.3.tgz#623e2075e02eb2d3f2475e49f99c91846467907a"
@@ -5555,6 +5551,11 @@ shellwords@^0.1.1:
   version "0.1.1"
   resolved "https://registry.yarnpkg.com/shellwords/-/shellwords-0.1.1.tgz#d6b9181c1a48d397324c84871efbcfc73fc0654b"
   integrity sha512-vFwSUfQvqybiICwZY5+DAWIPLKsWO31Q91JSKl3UYv+K5c2QRPzn0qzec6QPu1Qc9eHYItiP3NdJqNVqetYAww==
+
+shinobi-v2-core@^1.0.1:
+  version "1.0.1"
+  resolved "https://registry.yarnpkg.com/shinobi-v2-core/-/shinobi-v2-core-1.0.1.tgz#584c020c8962e006adeebc78f2211aa2cbec5d3b"
+  integrity sha512-xQOkMekw51Z9ASTqNrNuT6OfkkmjbuBur+l1oB8YqR6vxaa71IDU6Oap8NJUFbhL3InH54E5Wdwzt8UwJaY7Fg==
 
 side-channel@^1.0.2:
   version "1.0.2"
